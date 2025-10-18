@@ -1,0 +1,7 @@
+# Manufacturing
+
+If manufacturing is a large building (over 1,000m^2) then it will require more than one FD even though it is a single floor. In contrast, if the warehouse is sparsely populated, we will minimise the need for FDs. 
+
+To meet the industrial standards, the wiring hierarchy in manufacturing may have an extra step; we may use an intermediate cabling subsystem (ID) to interconnect between specialist equipment and the TO or to bypass the hierarchy and connect equipment directly. If the environment is hot (>20C) we may have to de-rate the cabling and shorten maximum length or use higher quality cable. 
+
+I can’t find a reference to this in the standards, but we always use shielded cable on an industrial site. Patch leads, and connectors are normally ruggedized and meet extra requirements for Mechanical, Ingress, Climate and Electromagnetic (MICE). We see a mixture of standardized connectors to (for example) ISO24702 and proprietary connectors by PLC and instrumentation manufacturers. Care is needed to differentiate instrumentation cables; we could have something that looks like a CAT5 cable running 1km with RS422/485 or 4-20mA serial communications. Each automation island may have equipment and requirements from a different manufacturer and the wire lists and requirements of each island may be completely different. You need experience, expertise and a Belden cable catalogue to attempt to support this and it can be immensely complicated.
