@@ -1,4 +1,4 @@
-# Radio
+# 5. Radio
 We use radio technologies for some very particular use cases, but in almost any infrastructure, we rely primarily on cables and fiber.
 Wi-Fi is ubiquitous for laptop and mobile devices, and Wi-Fi access points (APs) are normally wired back to a central network.
 Bluetooth and other low-power radio technologies are used for peripherals.

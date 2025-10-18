@@ -1,4 +1,4 @@
-# Balanced Cables
+# 3. Balanced Cables
 There are several different technologies which can be used for layer one infrastructure. The choice of the technology is based on the application. If I'm trying to communicate with a remotely operated vehicle underwater, I'm going to use an acoustic modem. Specialist applications like this will not be covered in my notes. 
 
 The most ubiquitous form of cabling in a modern infrastructure use twisted pair cables. In their typical use, we run cables through containment from a floor distributor (FD) to a telecom outlet (TO), up to 90m, with a patch core <=5m at either end. This is sometimes referred to as the horizontal cabling. Early developments used cabling little better than phone wires. We define the components which make up these system based on categories from ISO11801.

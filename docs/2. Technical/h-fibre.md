@@ -1,4 +1,4 @@
-# Fiber
+# 4. Fiber
 An optical fiber consists of a cylinder of glass called the core surrounded by a concentric layer of glass called the cladding. The glass in the cladding has a lower refractive index than the glass in the core. when light passes From a medium with a higher refractive index to a medium with a lower refractive index the lights it's been backwards towards the original medium. Any lights passing down the core which intersects with the cladding will be reflected back into the core. Lights can thus passed down the cable from end to end. To some reading here.
 
 There are many types of fiber optic cable and connectors. These are standardized in ISO11801.
@@ -38,4 +38,9 @@ Some vendors are anti-competitive and lock you in to using their (very expensive
 
 You need to match one side of a link with the other, there are many variants. We typically use multi-mode fiber within LANs and these days would use OM5 fibers. If you have very old fiber (OM1 or OM2) you need to test and minimize length and look up the LRM standard. 
 Short range (SX) transceivers use LEDs and not very much power. When we use very long range transceivers, they use laser diodes and put out enough power to destroy your retina. Do not look int this equipment.
+
+<figure>
+<img src = "https://jor-donegal.github.io/WiredL1/images/table2.jpg">
+<figcaption>Table 2. Transcievers.</figcaption>
+</figure>
 

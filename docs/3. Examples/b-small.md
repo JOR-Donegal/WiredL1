@@ -1,4 +1,4 @@
-# Small Site
+# 2. Small Site
 The smallest site we can consider is one with <=48 points with 90m.
 
 <figure>

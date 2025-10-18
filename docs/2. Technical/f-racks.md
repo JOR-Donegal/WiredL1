@@ -1,4 +1,4 @@
-# Racks
+# 2. Racks
 All our equipment is fitted to 19” racks, these are a standard. All equipment height is standardized in height units or “U”, where 1U is 44.5mm.
 
 For a very small site, where we have <48 CAT6 points, we might use a small wall mounted cabinet, colloquially referred to as a “microwave oven cabinet”. This might be configured with 48 x CAT6 outlets and a 48-port switch. We would also keep the DSL equipment here for internet connectivity and it would also have the main phone line.
