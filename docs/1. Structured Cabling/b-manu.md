@@ -1,4 +1,4 @@
-# Manufacturing
+# 2. Manufacturing
 
 If manufacturing is a large building (over 1,000m^2) then it will require more than one FD even though it is a single floor. In contrast, if the warehouse is sparsely populated, we will minimise the need for FDs. 
 

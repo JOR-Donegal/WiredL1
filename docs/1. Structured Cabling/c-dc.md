@@ -1,4 +1,4 @@
-# Data Centers
+# 3. Data Centers
 An enterprise data centre can vary in size from 3 racks in a small room, to a full EN 50600 compliant facility. For a large custom designed data centre, there will be general offices, a control room, and many separate spaces for generators and fuel, electrical and transformers, mechanical, storage, docking/loading, etc. There will be at least two well separated telecoms entrance rooms. The design will be heavily influenced by availability, security/protection and efficiency. 
 
 The main cabinet/server area was called a data hall, but all the new standards refer to it as a computer room. In this area, recommendations are for racks 800w and 1200d no greater than 20 cabinets per row in a hot aisle/cold aisle arrangement. Switches and active equipment can be located at the End-of-Row (EoR) or in the Middle-of-Row (MoR) and many design assumptions are based on one or other. Copper or fibre, price, speed and distance have to be considered in making the design decisions. Alternatively, Top-of-Rack (ToR) switches may exist in each rack. 
