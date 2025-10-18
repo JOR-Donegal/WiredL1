@@ -1,4 +1,4 @@
-# Wired Layer 1
+# Introduction
 
 !!! abstract "Wired Layer 1 for Ethernet"
 

@@ -1,0 +1,9 @@
+# 1. Generic Cabling Systems
+As with many technology standards, the early situations emerged in the United States. The Electronics Industries Association (EIA) ceased operations c. 2011 but is still referenced. The telecommunications industry Association (TIA) is still accredited by the American National standards Institute (ANSI). The first standards were interested in looking at is variously referred to as EIA/TIA 568 or ANSI/TIA 568, issued in 1991. In 1995, a coherent international standard was released for layer 1, ISO 11801:1995. The terminology is very different from ANSI/TIA 568 and is the standard we currently employ. The most recent version of this standard that I am familiar with is ISO 11801:2017. But this is an electrical standard, and as you might expect, there are separate European standards! An EN standard is one that has been ratified by either CEN, CENELEC or ETSI, I will leave it to you to look up these acronyms and understand the organizations. EN 50173 is derived from and compatible with the TIA and ISO standards but has some additional requirements. For the design of international projects, I normally refer to the ISO standards. In compliance with electrical regulations, you must quote the EN standard for work in Ireland.
+
+The notion of a generic cabling system is that any required service can be provided at any location on a campus or in a data center. The principles are laid out in ISO/IEC 11801-1 [1] and section 5 defines a generic cable design for offices and industrial sites.
+
+<figure>
+<img src = "https://jor-donegal.github.io/WiredL1/images/fig1.jpg">
+<figcaption>Fig 1. From ISO11801.</figcaption>
+</figure>
