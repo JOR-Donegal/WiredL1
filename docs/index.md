@@ -16,5 +16,7 @@ Once the building is near completion, our contractor will terminate, number and 
 
 In most of the world, we try to adhere to the standard ISO 11801 and in Data Centres, EN50600. In the US, you will see reference to the EIA/TIA standards. These are generally compatible, but we will only use the ISO/EN standards in our references.
 
-Take a look at this [video](https://media.heanet.ie/page/2e7fa7d13e1a47288b29264fa73c5013) to get a summary of the technologies we use for wiring at Layer1.
+Login to media.heanet.ie with your university credentials.
+
+Then take a look at this [video](https://media.heanet.ie/page/2e7fa7d13e1a47288b29264fa73c5013) to get a summary of the technologies we use for wiring at Layer1.
 
