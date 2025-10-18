@@ -1,4 +1,4 @@
-# Multi-floor Building
+# 4. Multi-floor Building
 In a multi-story building we will equip each floor with its own floor distributor cabinet (FD) for horizontal cabling, CAT6.
 
 From each FD we will bring building distributor cabling (BD) back to one or more central aggregation points. Ideally, we will run a redundant connection from each floor to two redundant BD cabinets. 
@@ -8,6 +8,6 @@ There will likely be a server room or central equipment room with a telephone sy
 The examples I have given are typically and normal for Ireland at time of writing and would be recognized as normal practice anywhere in the world. Every real site is unique and optimal design takes years of experience.
 
 <figure>
-<img src = "https://jor-donegal.github.io/WiredL1/images/fig15.jpg">
-<figcaption>Fig 15. Multi-floor building.</figcaption>
+<img src = "https://jor-donegal.github.io/WiredL1/images/fig16.jpg">
+<figcaption>Fig 16. Multi-floor building.</figcaption>
 </figure>
