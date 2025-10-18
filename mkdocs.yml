@@ -1,4 +1,4 @@
-site_name: Manifest Test
+site_name: Wired Layer 1
 site_url: https://example.com
 theme:
   name: material
@@ -11,7 +11,7 @@ theme:
     - navigation.footer
   
   palette:
-    # Darm Mode
+    # Dark Mode
     - scheme: slate
       primary: green
       accent: red
